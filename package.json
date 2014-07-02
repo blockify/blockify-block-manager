@@ -16,7 +16,7 @@
   "dependencies": {
     "abbrev": "~1.0.4",
     "archy": "~0.0.2",
-    "blockify-config": "~0.5.2",
+    "blockify-config": "~0.5.3",
     "bower-endpoint-parser": "~0.2.2",
     "blockify-json": "~0.4.0",
     "bower-logger": "~0.2.2",
