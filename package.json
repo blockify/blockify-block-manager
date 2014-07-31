@@ -8,6 +8,11 @@
       "url": "https://github.com/blockify/blockify-block-manager/blob/master/LICENSE"
     }
   ],
+  "contributors": [
+    "James Warner <me@jmswrnr.com> (http://jmswrnr.com/)",
+    "Aaron Taylor <aaronfacetaylor@gmail.com> (https://github.com/faceonline)",
+    "Steve North <steve@62design.co.uk> (https://github.com/Steve62)"
+  ],
   "repository": "blockify/blockify-block-manager",
   "main": "lib",
   "engines": {
