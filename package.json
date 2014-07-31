@@ -4,7 +4,7 @@
   "description": "The block package manager",
   "licenses": [
     {
-      "type": "GPL-3.0",
+      "type": "MIT",
       "url": "https://github.com/blockify/blockify-block-manager/blob/master/LICENSE"
     }
   ],
